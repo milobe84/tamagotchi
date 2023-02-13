@@ -1,0 +1,126 @@
+h1{
+    text-align: center;
+    color: palevioletred;
+    font-size: 40px;
+}
+
+img{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.bloque-comida{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.comida{
+    display: flex;
+    width: 400px;
+    height: 50px;
+    border: 1px solid black; 
+    margin-right: 20px;
+}
+
+.comida div{
+    width: 40px;
+    height: 50px;
+}
+
+.comida div.alimento-red{
+    background-color: red;
+}
+
+.comida div.alimento-yellow{
+    background-color: yellow;
+}
+.comida div.alimento-green{
+    background-color: green;
+}
+
+.dormir div.alimento-red{
+    background-color: red;
+}
+
+.dormir div.alimento-yellow{
+    background-color: yellow;
+}
+.dormir div.alimento-green{
+    background-color: green;
+}
+
+.vida div.alimento-red{
+    background-color: red;
+}
+
+.vida div.alimento-yellow{
+    background-color: yellow;
+}
+.vida div.alimento-green{
+    background-color: green;
+}
+
+.bloque-dormir{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.dormir{
+    display: flex;
+    width: 400px;
+    height: 50px;
+    border: 1px solid black; 
+    margin-right: 20px;
+}
+
+.dormir div{
+    width: 40px;
+    height: 50px;
+}
+
+.bloque-vida{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.vida{
+    display: flex;
+    width: 600px;
+    height: 50px;
+    border: 1px solid black; 
+    margin-right: 20px;
+    
+}
+
+.vida div{
+    width: 60px;
+    height: 50px;
+}
+
+.vida-texto{
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+
+.boton-iniciar{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    width: 200px;
+    height: 60px;
+}
+
+#btnReiniciar{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    width: 200px;
+    height: 60px;
+}
